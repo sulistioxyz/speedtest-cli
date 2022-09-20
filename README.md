@@ -9,3 +9,5 @@ then install the program speedtest-cli
 <pre>pip install speedtest-cli</pre>
 to run it use the command
 <pre>speedtest</pre>
+# Donation
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sulistioxyz)
